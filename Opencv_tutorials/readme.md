@@ -6,4 +6,4 @@
 ![Screenshot (99)](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/76fb47bf-4096-4430-86c3-e71b3a14622c)
 ## Color masks
 ![Screenshot (95)](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/4ed69ae3-7468-4be8-84cc-1d9588078bcb)
-## Face and eye detection!
+## Face and eye detection!!!
