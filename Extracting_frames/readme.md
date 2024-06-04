@@ -7,4 +7,5 @@
 ![frame_0417](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/7f7c4438-9e01-4fd4-a789-dd9d6063e18c)
 ![frame_0411](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/22e39241-4bde-4c70-8d05-9e8a3e276d66)
 ![frame_0409](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/fad63ad1-dc1e-4278-a008-bfea42f8c557)
+![frame_0399](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/637dfc1b-8015-41f6-a66f-7e004511d0c3)
 
