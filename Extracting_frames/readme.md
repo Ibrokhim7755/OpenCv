@@ -12,4 +12,5 @@
 ![frame_0359](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/c6273425-e885-481a-ad8c-c7730673f682)
 ![frame_0335](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/6840bce3-5e69-4bf9-9b20-bda984dcba10)
 ![frame_0334](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/ad3aadbb-fe3a-4bd2-833f-7436fd23098e)
+![frame_0329](https://github.com/Ibrokhim7755/OpenCv/assets/89033710/1ec78513-d897-4f2e-bc83-99b189bef95d)
 
